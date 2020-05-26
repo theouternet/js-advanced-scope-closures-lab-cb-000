@@ -19,3 +19,9 @@ function produceTipCalculator (percent) {
     return fare * percent
   }
 }
+
+function createDriver(name) {
+  return class Driver(driverId) {
+    
+  }
+}
